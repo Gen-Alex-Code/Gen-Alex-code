@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"># 🚗 Algorithm Engineer | Automotive Industry | Data Science Enthusiast<br>
+<p align="left"># 🚗 Embedded Software Engineer | Automotive Systems | C/C++ | AUTOSAR Concepts | Intelligent Systems<br>
 
 ###
 <br>Welcome to my GitHub! I am an **Algorithm Engineer** with experience in the **automotive industry**, specializing in embedded systems and **algorithm development**. My expertise includes **C**, **C++**, **Python**, **Embedded C**, as well as tools like **Pandas** and **NumPy**. I have also worked a little with **Jenkins** for CI/CD pipelines. <br><br>Recently, I have embarked on a journey into **Data Science** and **Machine Learning**</p>
